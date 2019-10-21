@@ -1,3 +1,3 @@
 #
-# My Scripts Examples
+# My Bash, Python and Powershell Scripts Examples
 #
